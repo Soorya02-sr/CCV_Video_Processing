@@ -23,11 +23,6 @@ print("✅ Done!")
 
 
 
-
-
-
-#single file renaming
-
 # import os, re, shutil
 
 # def clean(name):
@@ -55,6 +50,7 @@ print("✅ Done!")
 #             print(f"✔ {f} → {new_name}")
 
 # print("✅ Done!")
+
 
 
 
